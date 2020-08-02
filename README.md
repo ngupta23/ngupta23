@@ -1,41 +1,40 @@
 # Hi there, I'm Nikhil. Welcome to my Github page!
 
-## I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.
+**I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.**
+
+### Some facts about me:
 - I have a Masters in Electrical Engineering and I am currently working on completing my second Masters in Data Analytics and Machine Learning.
 - My goals for 2020 include creating and contributing to more open source projects. My contributions so far include
-    - Python
-        - Lead Developer of Auto_TS (for automated time series).
-        - Contributor to PyCaret (for Automated Machine Learning).
-    - R 
-        - Lead Developer of tswgewrapped package for semi automated time series analysis
-- In my spare time, I volunteer for [Vibha](https://vibha.org/) (which is a non profit focussing on child education in India). I am their Data Analytics lead and perform several tasks ranging from data cleaning, reporting, donor segmentation, automation of donor management, email marketing automation, etc.
-
+    - Lead Developer of [Auto_TS](https://github.com/AutoViML/Auto_TS/tree/develop) for automated time series in Python.
+    - Contributor to [PyCaret](https://github.com/pycaret/pycaret) for Automated Machine Learning in Python. 
+    - Lead Developer of [tswgewrapped](https://github.com/josephsdavid/tswgewrapped) for semi automated time series analysis in R
+- In my spare time, I volunteer for [Vibha](https://vibha.org/) which is a non profit organization focussing on child education in India. I am their **Data Analytics Lead** and perform several tasks including but not limited to 
+    - Data Cleaning
+    - Reporting
+    - Donor Segmentation
+    - Automation of Donor Management
+    - Email Marketing Automation
 
 
 ### Connect with me:
 
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nikhil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nikhil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 <br />
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-<br />
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Forecasting the next recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
-- [Forecasting the Next Recession (Preliminnary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
-<!-- YOUTUBE:END -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ngupta23&count_private=true&theme=radical&show_icons=true&hide_border=true" />
 
 ---
 
@@ -50,7 +49,15 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ngupta23&show_icons=true&hide_border=true" />
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Forecasting the next recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
+- [Forecasting the Next Recession (Preliminnary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
+<!-- YOUTUBE:END -->
+
+---
+
+
 
 [youtube]: https://www.youtube.com/channel/UCDB-YwusJ60Kly2rcGKSsmQ/
 [stackoverflow]: https://stackoverflow.com/users/8925915/nikhil-gupta
