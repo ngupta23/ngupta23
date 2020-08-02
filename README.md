@@ -48,7 +48,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Forecasting the next recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
+- [Forecasting the Next Recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
 - [Forecasting the Next Recession (Preliminnary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
 <!-- YOUTUBE:END -->
 
