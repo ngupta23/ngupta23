@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil. Welcome to my Github page!
+## Hi there, I'm Nikhil. Welcome to my Github page!
 
 **I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.**
 
@@ -16,20 +16,19 @@
     - Email Marketing Automation
 
 
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
+[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][GitHub]
+[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Nikhil | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nikhil | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][dummy]
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][dummy]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][dummy]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][dummy]
 
 <br />
 
@@ -60,7 +59,7 @@
 
 
 
-
+[GitHub]: https://github.com/ngupta23
 [youtube]: https://www.youtube.com/channel/UCDB-YwusJ60Kly2rcGKSsmQ/
 [stackoverflow]: https://stackoverflow.com/users/8925915/nikhil-gupta
 [linkedin]: https://www.linkedin.com/in/guptanick/
