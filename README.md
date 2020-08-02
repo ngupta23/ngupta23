@@ -41,6 +41,11 @@
 
 ### 📕 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Nikhil Gupta for How to define a custom accuracy in Keras to ignore samples with a particular gold label?](https://stackoverflow.com/questions/47270722/how-to-define-a-custom-accuracy-in-keras-to-ignore-samples-with-a-particular-gol/62414273#62414273)
+- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/53873848#53873848)
+- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/58852864#58852864)
+- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/53873848#53873848)
+- [Comment by Nikhil Gupta on Passing a tuple argument to RandomSearchCV in scikit-learn](https://stackoverflow.com/questions/61465988/passing-a-tuple-argument-to-randomsearchcv-in-scikit-learn)
 <!-- STACKOVERFLOW:END -->
 
 
