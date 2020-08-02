@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil. Welcome to my Github page!
+# Hi there, I'm Nikhil. Welcome to my Github page!
 
 ## I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.
 - I have a Masters in Electrical Engineering and I am currently working on completing my second Masters in Data Analytics and Machine Learning.
@@ -31,6 +31,16 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Stackoverflow Posts and Answers
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ---
@@ -38,5 +48,5 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [youtube]: https://www.youtube.com/channel/UCDB-YwusJ60Kly2rcGKSsmQ/
-[linkedin]: https://www.linkedin.com/in/guptanick/
 [stackoverflow]: https://stackoverflow.com/users/8925915/nikhil-gupta
+[linkedin]: https://www.linkedin.com/in/guptanick/
