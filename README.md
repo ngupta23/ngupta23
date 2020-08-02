@@ -14,6 +14,7 @@
     - Donor Segmentation
     - Automation of Donor Management
     - Email Marketing Automation
+- I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/ngupta23/gre).
 
 
 ### Languages and Tools:
