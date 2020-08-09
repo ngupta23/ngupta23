@@ -40,9 +40,9 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by Nikhil Gupta for Import data into Google Colaboratory](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory/63299440#63299440)
 - [Answer by Nikhil Gupta for How to define a custom accuracy in Keras to ignore samples with a particular gold label?](https://stackoverflow.com/questions/47270722/how-to-define-a-custom-accuracy-in-keras-to-ignore-samples-with-a-particular-gol/62414273#62414273)
-- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/53873848#53873848)
-- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/58852864#58852864)
-- [Comment by Nikhil Gupta on How to send multiple recipient sendgrid V3 api Python](https://stackoverflow.com/questions/50614977/how-to-send-multiple-recipient-sendgrid-v3-api-python/53873848#53873848)
+- [Answer by Nikhil Gupta for Including caret in another package gives error during devtools::check() - "there is no package called 'lattice'"](https://stackoverflow.com/questions/61016630/including-caret-in-another-package-gives-error-during-devtoolscheck-there/61480080#61480080)
+- [Passing a tuple argument to RandomSearchCV in scikit-learn](https://stackoverflow.com/questions/61465988/passing-a-tuple-argument-to-randomsearchcv-in-scikit-learn)
+- [Answer by Nikhil Gupta for Calculate distances between longitude and latitude for a large datasets](https://stackoverflow.com/questions/49437150/calculate-distances-between-longitude-and-latitude-for-a-large-datasets/61379560#61379560)
 <!-- STACKOVERFLOW:END -->
 
 ---
