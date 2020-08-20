@@ -49,6 +49,7 @@
 
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
+- [Build and Tune Your Deep Learning Models Effectively Part 1A](https://www.youtube.com/watch?v=MNM95uO9-xs)
 - [Forecasting the Next Recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
 - [Forecasting the Next Recession (Preliminnary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
 <!-- YOUTUBE:END -->
