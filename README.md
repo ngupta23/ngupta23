@@ -51,7 +51,7 @@
 <!-- YOUTUBE:START -->
 - [Build and Tune Your Deep Learning Models Effectively Part 1A](https://www.youtube.com/watch?v=MNM95uO9-xs)
 - [Forecasting the Next Recession (Final)](https://www.youtube.com/watch?v=ZQAJfAoSLbU)
-- [Forecasting the Next Recession (Preliminnary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
+- [Forecasting the Next Recession (Preliminary Univariate and EDA)](https://www.youtube.com/watch?v=uerDq3WoMO8)
 <!-- YOUTUBE:END -->
 - [Image Segmentation Deepdive](https://zoom.us/rec/share/1MJ1EpH77U9JTYnx82f5fI0LHL7Zaaa81XBMq6cEmJpH3jXbpNR1ecPwAqKPC14?startTime=1574024696000)
 
