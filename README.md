@@ -38,11 +38,11 @@
 
 ### 📕 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Nikhil Gupta for Seaborn's No numeric types to aggregate error](https://stackoverflow.com/questions/54374515/seaborns-no-numeric-types-to-aggregate-error/64664327#64664327)
 - [Answer by Nikhil Gupta for I've updated Git and 'lost my Head', so now I can't commit](https://stackoverflow.com/questions/52755460/ive-updated-git-and-lost-my-head-so-now-i-cant-commit/64553679#64553679)
 - [Answer by Nikhil Gupta for Euclidean algorithm (GCD) with multiple numbers?](https://stackoverflow.com/questions/16628088/euclidean-algorithm-gcd-with-multiple-numbers/63346480#63346480)
 - [Answer by Nikhil Gupta for Import data into Google Colaboratory](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory/63299440#63299440)
 - [Answer by Nikhil Gupta for How to define a custom accuracy in Keras to ignore samples with a particular gold label?](https://stackoverflow.com/questions/47270722/how-to-define-a-custom-accuracy-in-keras-to-ignore-samples-with-a-particular-gol/62414273#62414273)
-- [Answer by Nikhil Gupta for Including caret in another package gives error during devtools::check() - "there is no package called 'lattice'"](https://stackoverflow.com/questions/61016630/including-caret-in-another-package-gives-error-during-devtoolscheck-there/61480080#61480080)
 <!-- STACKOVERFLOW:END -->
 
 ---
