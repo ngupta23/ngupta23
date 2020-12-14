@@ -3,7 +3,7 @@
 **I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.**
 
 ### Some facts about me:
-- I have a Masters in Electrical Engineering and I am currently working on completing my second Masters in Data Analytics and Machine Learning.
+- I have two Masters in (1) Electrical Engineering, and (2) Data Science (Machine Learning Specialization).
 - My goals for 2020 include creating and contributing to more open source projects. My contributions so far include
     - Lead Developer of [Auto_TS](https://github.com/AutoViML/Auto_TS/tree/develop) for automated time series in Python.
     - Contributor to [pycaret](https://github.com/pycaret/pycaret) for Automated Machine Learning in Python. 
