@@ -38,11 +38,11 @@
 
 ### 📕 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Nikhil Gupta for PySpark custom UDF ModuleNotFoundError: No module named](https://stackoverflow.com/questions/59741832/pyspark-custom-udf-modulenotfounderror-no-module-named/66546933#66546933)
 - [Answer by Nikhil Gupta for How to let new and old subscribers sign up to a Mailchimp segment](https://stackoverflow.com/questions/64702835/how-to-let-new-and-old-subscribers-sign-up-to-a-mailchimp-segment/65491480#65491480)
 - [Answer by Nikhil Gupta for How can I receive a notification every time someone sign up through my MailChimp form?](https://stackoverflow.com/questions/64915742/how-can-i-receive-a-notification-every-time-someone-sign-up-through-my-mailchimp/65491405#65491405)
 - [Answer by Nikhil Gupta for How to query for a list of all Mailchimp campaigns using Python?](https://stackoverflow.com/questions/65168349/how-to-query-for-a-list-of-all-mailchimp-campaigns-using-python/65491276#65491276)
 - [Answer by Nikhil Gupta for ModuleNotFoundError: No module named in python 3 even after hacking sys.path()](https://stackoverflow.com/questions/50011915/modulenotfounderror-no-module-named-in-python-3-even-after-hacking-sys-path/65350138#65350138)
-- [Answer by Nikhil Gupta for Seaborn's No numeric types to aggregate error](https://stackoverflow.com/questions/54374515/seaborns-no-numeric-types-to-aggregate-error/64664327#64664327)
 <!-- STACKOVERFLOW:END -->
 
 ---
