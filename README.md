@@ -1,20 +1,30 @@
 ## Hi there, I'm Nikhil. Welcome to my Github page!
 
-**I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.**
+**I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.** 
+
+My personal philosophy is that models are no good if they do not solve a real problem. Hence, when solving any data related problem, I focus on the business need first and on models later.
+
+I also believe that we do not always need the latest and greatest algorithms to solve a problem. Yes, these have their own place for example, image classification, natural language processing - where tradititional methods are lacking. But in my personal experience (over multiple projects), a vast majority of use cases can we solved more efficiently with traditional methods and algorithms as long one is ready to invest some time and diligence in things like domain specific feature engineering.   
 
 ### Some facts about me:
-- I have two Masters in (1) Electrical Engineering, and (2) Data Science (Machine Learning Specialization).
-- My goals for 2020 include creating and contributing to more open source projects. My contributions so far include
-    - Lead Developer of [Auto_TS](https://github.com/AutoViML/Auto_TS/tree/develop) for automated time series in Python.
-    - Contributor to [pycaret](https://github.com/pycaret/pycaret) for Automated Machine Learning in Python. 
+
+* :sparkles: I have two Masters in (1) Electrical Engineering, and (2) Data Science (Machine Learning Specialization) and am currently working as a Solution Architect and Data Scientist in the Supply Chain domain.
+
+* :sparkles: My personal goals include creating and contributing to more open source projects. My contributions so far include
+    - **Lead Developer of the Time Series Module in [pycaret](https://github.com/pycaret/pycaret) for automated time series modeling and machine learning in Python.**
+    - Lead Developer of [Auto_TS](https://github.com/AutoViML/Auto_TS) for automated time series modeling in Python.
     - Lead Developer of [tswgewrapped](https://github.com/josephsdavid/tswgewrapped) for semi automated time series analysis in R
-- In my spare time, I volunteer for [Vibha](https://vibha.org/) which is a non profit organization focussing on child education in India. I am their **Data Analytics Lead** and perform several tasks including but not limited to 
+    - Contributor to [sktime](https://github.com/alan-turing-institute/sktime) - a unified framework for time series modeling in Python
+
+-  :sparkles: In my spare time, I volunteer for [Vibha](https://vibha.org/) which is a non profit organization focussing on child education in India. I am their **Data Analytics Lead** and perform several tasks including but not limited to 
     - Data Cleaning
-    - Reporting
+    - Automation - Donor Data Management
+    - Automation - Email Marketing
     - Donor Segmentation
-    - Automation of Donor Management
-    - Email Marketing Automation
-- I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/ngupta23/gre).
+    - A/B testing to increase reach
+    - Reporting 
+
+-  :sparkles: I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/ngupta23/Data-Science-Knowlege-Base).
 
 
 ### Languages and Tools:
