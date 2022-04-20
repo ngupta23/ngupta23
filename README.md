@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/guptanick/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Nikhil-blue?logo=linkedin" /></a>
+  <a href="https://twitter.com/guptanick13" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Nikhil-blue?logo=twitter" /></a>
+  <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
+</p>
+
 ## Hi there, I'm Nikhil. Welcome to my Github page!
 
 **I am a "problem first" engineer focussed on solving real world challenges with the help of Data Science and Machine Learning.** 
